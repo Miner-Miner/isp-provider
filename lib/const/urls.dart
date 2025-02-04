@@ -1,0 +1,1 @@
+const String url = "https://trbnjitrbgsviwegaovy.supabase.co";
