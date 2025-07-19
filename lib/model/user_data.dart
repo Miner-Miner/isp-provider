@@ -7,5 +7,5 @@ class UserData {
 
   UserData(this.name,this.phone,this.email,this.address);
 
-  setImage (String _image) {image = _image;}
+  setImage (String image) {image = image;}
 }

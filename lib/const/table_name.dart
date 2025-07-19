@@ -1,1 +1,9 @@
-const String userDataTable = "users";
+const String id = "id";
+const String userDataTable = "user_accounts";
+const String userDataTableName = "name";
+const String userDataTablePhone = "phone";
+const String userDataTableEmail = "email";
+const String userDataTableDeviceId = "device_id";
+const String userDataTablePackageId = "package_id";
+const String userDataTablePackageDate = "package_expired_date";
+const String userDataTableApproved = "approved";
